@@ -196,7 +196,7 @@ w.x.y <- function(x, y){
   
 }
 
-d <- 10
+d <- 5               #specifying the dimension
 
 B <- 2e4
 burn.in <- 4e3
